@@ -17,9 +17,7 @@
 #  define ZLIB_INTERNAL
 #endif
 
-#ifndef __APPLE__
 #include <stdio.h>
-#endif
 #include "zlib.h"
 #ifdef STDC
 #  include <string.h>
